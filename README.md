@@ -27,3 +27,4 @@ override.tf.json    Все название override и вложение tf с �
 terraform.rc Название terraform с расширением rc будут игнорированы
 
 hi friends
+Hi dear
