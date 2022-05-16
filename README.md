@@ -28,3 +28,4 @@ terraform.rc Название terraform с расширением rc будут 
 
 hi friends
 
+cisco
